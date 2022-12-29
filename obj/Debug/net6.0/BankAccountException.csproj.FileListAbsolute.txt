@@ -1,0 +1,15 @@
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\bin\Debug\net6.0\BankAccountException.exe
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\bin\Debug\net6.0\BankAccountException.deps.json
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\bin\Debug\net6.0\BankAccountException.runtimeconfig.json
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\bin\Debug\net6.0\BankAccountException.dll
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\bin\Debug\net6.0\BankAccountException.pdb
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.csproj.AssemblyReference.cache
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.AssemblyInfoInputs.cache
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.AssemblyInfo.cs
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.csproj.CoreCompileInputs.cache
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.dll
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\refint\BankAccountException.dll
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.pdb
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\BankAccountException.genruntimeconfig.cache
+C:\Users\rfxba\source\repos\BankAccountException\BankAccountException\obj\Debug\net6.0\ref\BankAccountException.dll
